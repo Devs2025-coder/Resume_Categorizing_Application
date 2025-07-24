@@ -1,0 +1,5 @@
+pandas
+pypdf
+pickle
+streamlit
+datetime
