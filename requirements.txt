@@ -2,3 +2,8 @@ pandas
 pypdf
 streamlit
 datetime
+sklearn
+numpy
+matplotlib
+seaborn
+nltk
