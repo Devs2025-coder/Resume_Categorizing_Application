@@ -2,7 +2,7 @@ pandas
 pypdf
 streamlit
 datetime
-sklearn
+scikit-learn
 numpy
 matplotlib
 seaborn
